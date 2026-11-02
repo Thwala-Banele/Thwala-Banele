@@ -1,4 +1,4 @@
-Hi there, I'm Banele Thwala!
+Hi there, I'm Banele Thwala
 
 Software Engineer & Full-Stack Developer | Data Science | GIS Specialist.
 I specialize in building full-stack applications, processing complex geospatial data, and architecting end-to-end web solutions. 
