@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there, I'm Banele Thwala!
 
-<!--
-**Thwala-Banele/Thwala-Banele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & Full-Stack Developer | Data Science & GIS Specialist
 
-Here are some ideas to get you started:
+I specialize in building full-stack applications, processing complex geospatial data, and architecting end-to-end web solutions. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Tech Stack & Tools
+
+* Languages: C, Java, JavaScript, Python, SQL
+* Frontend: Next.js, React, HTML5/CSS3
+* Backend & Databases: Node.js, Supabase, PostGIS, PostgreSQL
+* Geospatial & Data: QGIS, GeoPandas, rasterio, Google Earth Engine, PyTorch, scikit-learn
+* Dev Tools: Git, VS Code, Colab
+
+---
+
+Core Technical Focus
+
+* Full-Stack Web Development: Building reactive, user-focused dashboards and dynamic web applications.
+* GIS & Spatial Data Pipelines: Processing satellite imagery, spatial vector data, and integrating PostGIS workflows.
+* Data Science & Analytics: Developing quantitative scripts, machine learning models, and automated data processing.
+
+---
+
+
+Connect With Me
+- LinkedIn: www.linkedin.com/in/banele-thwala-a6241941b
